@@ -1,0 +1,26 @@
+{
+  "name": "t_crypto",
+  "version": "1.0.0",
+  "description": "crypto demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taoqiong/crypto.git"
+  },
+  "keywords": [
+    "crypto",
+    "aes"
+  ],
+  "author": "taoqiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taoqiong/crypto/issues"
+  },
+  "homepage": "https://github.com/Taoqiong/crypto#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
